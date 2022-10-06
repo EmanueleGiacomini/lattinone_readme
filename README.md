@@ -96,7 +96,7 @@ Please let us know by following this [link](https://github.com/EmanueleGiacomini
 You may want to take a look at this material :)
 | Cheatsheet | Link |
 |-------|------|
-|CMake | https://www.codewithharry.com/blogpost/cpp-cheatsheet/ |
+|CMake | https://github.com/mortennobel/CMake-Cheatsheet/blob/master/CMake_Cheatsheet.pdf |
 |C++ | https://www.codewithharry.com/blogpost/cpp-cheatsheet/ |
 |Octave | https://gist.github.com/obstschale/7320846 |
 |ROS | https://w3.cs.jmu.edu/spragunr/CS354_S19/handouts/ROSCheatsheet.pdf |
