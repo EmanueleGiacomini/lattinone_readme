@@ -100,3 +100,5 @@ You may want to take a look at this material :)
 |C++ | https://www.codewithharry.com/blogpost/cpp-cheatsheet/ |
 |Octave | https://gist.github.com/obstschale/7320846 |
 |ROS | https://w3.cs.jmu.edu/spragunr/CS354_S19/handouts/ROSCheatsheet.pdf |
+
+Please remember to `havfun`
