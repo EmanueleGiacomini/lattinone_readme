@@ -1,4 +1,4 @@
-# Lattinone
+# Lattinone v1.0
 
 ### Update README First
 To update the guide, execute in a terminal (shortcut ctrl-T)
