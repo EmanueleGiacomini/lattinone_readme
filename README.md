@@ -15,9 +15,9 @@ Feel free to install your favourite editor if you wish.
 ## Regarding ROS
 **ros-noetic-desktop-full** is installed and you are provided with all the ROS functionality required for the exams and even more.
 To enable ros functionalities you have to type in a terminal interface (shortcut ctrl-T):
-
-     source /opt/ros/noetic/setup.bash
-
+```sh
+source /opt/ros/noetic/setup.bash
+```
 We integrated an alias in your bashrc file so that you can simply type `ws2` instead.
 
 To compile C/C++ ROS projects, you require a specific workspace structure, please refer to the following [link](http://wiki.ros.org/catkin/Tutorials/create_a_workspace) for further instructions.
