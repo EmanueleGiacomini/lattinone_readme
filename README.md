@@ -1,5 +1,12 @@
 # Lattinone
 
+### Update README First
+To update the guide, execute in a terminal (shortcut ctrl-T)
+```sh
+cd ~/lattinone_readme/
+git pull
+```
+
 Dear [Robot Programming]/[Probabilistic Robotics] student.
 This is a virtual machine with supposedly everything you need to do exercises/projects related to your course.
 
